@@ -105,4 +105,4 @@ npm run test:cov
 
 ### Postman Collection
 
-[Postman Collection URL](https://github.com/victor-felix/test-nodejs/docs/test.postman_collection.json)
+[Postman Collection URL](https://github.com/victor-felix/test-nodejs/blob/main/docs/test.postman_collection.json)
