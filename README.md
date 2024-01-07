@@ -72,3 +72,38 @@ Crie endpoints para as seguintes ações:
 
 - Os produtos podem ficar em memória, não é necessário persistir os dados
 - Testes são sempre bem-vindos :smiley:
+
+### Pré-requisitos para executar a API
+
+- NodeJS 20.10.0
+
+### Instalação
+
+```bash
+npm install
+```
+
+### Executar localmente
+
+```bash
+npm run start:dev
+```
+
+#### OBS
+Ao executar localmente basta acessar a rota http://localhost:3000/docs para visualizar o swagger da API.
+
+### Executar testes unitários
+
+#### Sem estatísticas de cobertura
+```bash
+npm run test
+```
+
+#### Com estatísticas de cobertura
+```bash
+npm run test:cov
+```
+
+### Postman Collection
+
+[Postman Collection URL](https://github.com/victor-felix/test-nodejs/docs/test.postman_collection.json)
