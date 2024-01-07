@@ -94,7 +94,6 @@ Ao executar localmente basta acessar a rota http://localhost:3000/docs para visu
 
 ### Executar testes unitários
 
-#### Sem estatísticas de cobertura
 ```bash
 npm run test
 ```
